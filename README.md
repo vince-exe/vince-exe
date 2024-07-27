@@ -3,7 +3,7 @@
 <img src="https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg">
 
 <p align="center">
-Hi my name is Vincenzo, I am a 17 year old computer science student, I love computer science and to be more precise I love programming. In my free time I enjoy creating projects that can help me grow as a programmer, but above all I love to set myself more and more complex challenges and objectives to become better and better at programming.
+Hi my name is Vincenzo, I am a 19 year old computer science student, I love computer science and to be more precise I love programming. In my free time I enjoy creating projects that can help me grow as a programmer, but above all I love to set myself more and more complex challenges and objectives to become better and better at programming.
 </p>
 
 ## <p align="center">💻 Languages and Operative Systems</p>
